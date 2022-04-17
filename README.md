@@ -1,6 +1,6 @@
 # Introduction
 
-DarthVad is a social media image sharing sharing platform that connects the fans of Star Wars, Avengers, The Lords of the Rings, Interstellar, etc.
+DarthVad is a social media image sharing platform that connects the fans of Star Wars, Avengers, The Lords of the Rings, Interstellar, etc.
 
 ## 
 <p align="center">
